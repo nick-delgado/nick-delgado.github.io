@@ -16,7 +16,7 @@ So many things that I want to learn:
 - Amazon AWS
 - qemu/kvm
 - iSCSI
-
+- DRDB
 
 ### Build Automation Software
 - make
