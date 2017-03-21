@@ -9,3 +9,19 @@ So many things that I want to learn:
 - R programming
 - C/C++ (more)
 
+### DevOps
+- git
+- puppet
+- vagrant
+- Amazon AWS
+- qemu/kvm
+- iSCSI
+
+
+### Build Automation Software
+- make
+- Apache Ant (java)
+- Jenkins
+- Salt
+- Puppet
+- Hadoop
